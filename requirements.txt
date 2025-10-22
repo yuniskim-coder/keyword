@@ -1,0 +1,4 @@
+streamlit
+PySide6
+requests
+python-dotenv
